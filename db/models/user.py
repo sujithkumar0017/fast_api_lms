@@ -1,6 +1,6 @@
 import enum
 
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, Enum, Text
+from sqlalchemy import Boolean, Column, ForeignKey, Integer, String,Enum, Text
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql.expression import null
 
